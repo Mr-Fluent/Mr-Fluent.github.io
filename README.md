@@ -157,6 +157,15 @@ margin-top:40px;
 </div>
 </div>
 
+<div class="card">
+<img src="https://images.unsplash.com/photo-1583121274602-3e2820c69888">
+<div class="card-content">
+<h3>Ferrari</h3>
+<p class="price">$420,000</p>
+<button>Buy Now</button>
+</div>
+</div>
+
 </div>
 </section>
 
