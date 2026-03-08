@@ -171,7 +171,7 @@ footer{
 <div class="card">
 <img src="https://images.unsplash.com/photo-1572120360610-d971b9d7767c">
 <div class="card-content">
-<h3>Model House with Large Garage</h3>
+<h3>Modern House with Large Garage</h3>
 <p class="price">$2,600,000</p>
 </div>
 </div>
