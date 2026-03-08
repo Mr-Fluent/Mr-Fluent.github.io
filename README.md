@@ -143,6 +143,14 @@ Luxury Estates & Exclusive Cars
 <p class="price">$600,000</p>
 </div>
 
+<div class="card">
+<img src="https://images.unsplash.com/photo-1621135802920-133df287f89c">
+<div class="card-content">
+<h3>Lamborghini Aventador</h3>
+<p class="price">$500,000</p>
+</div>
+</div>
+
 </div>
 </section>
 
@@ -153,13 +161,7 @@ Luxury Estates & Exclusive Cars
 
 <div class="grid">
 
-<div class="card">
-<img src="https://images.unsplash.com/photo-1621135802920-133df287f89c">
-<div class="card-content">
-<h3>Lamborghini Aventador</h3>
-<p class="price">$500,000</p>
-</div>
-</div>
+
 
 <div class="card">
 <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511" alt="NYC Penthouse interior with balcony view" width="100%">
